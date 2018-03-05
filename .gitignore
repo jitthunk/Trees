@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Trees/bin/Debug
+/Trees/obj/Debug
+/Trees/.vs/Trees/v14
