@@ -1,4 +1,4 @@
-# Trees
+## Trees
 Various Tree Related Algos 
 Method Names are Self explanatory
 Mostly using BSTs
